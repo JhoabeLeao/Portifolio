@@ -1,0 +1,51 @@
+
+
+
+
+
+/*
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+#menu-h {
+    background-color: rgb(37, 37, 39);   
+    display: flex;
+}
+
+#menu-h ul{
+    max-width: 800px;
+    list-style: none;
+    padding: 0;    
+}
+
+#menu-h ul li {
+    display: inline;  
+}
+
+#menu-h ul li a{
+    color: #FFFFFF;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;   
+    transition: background .5s;     
+}
+
+#menu-h ul li a:hover{
+    color: rgb(212, 255, 252);
+    background-color: rgb(90, 90, 90);
+}
+
+.logo {
+   display: block;
+   float: left;
+}
+
+
+*/
