@@ -1,5 +1,31 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
 
+.bg-primary-color {
+   background-color: #fff;
+}
 
+.bg-primary-color {
+    background-color: #ECE8EA;
+}
+
+.bg-dark-color {
+    background-color: #050505;
+}
+
+.primary-color{
+    color: #050505
+}
+.primary-color{
+    color: #7A7A7A;
+}
+
+/*NAVBAR*/
+
+#navbar{
+    border-bottom: ;
+}
 
 
 
