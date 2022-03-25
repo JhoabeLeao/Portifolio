@@ -3317,6 +3317,8 @@ input[type="button"].btn-block {
     -ms-flex-pack: justify;
     justify-content: space-between; }
 
+
+
 .navbar-brand {
   display: inline-block;
   padding-top: 0.3125rem;
@@ -7350,5 +7352,9 @@ a.text-dark:hover, a.text-dark:focus {
   .table .thead-dark th {
     color: inherit;
     border-color: #dee2e6; } }
+
+.sydle {
+  display: flex;
+}
 
 /*# sourceMappingURL=bootstrap.css.map */
